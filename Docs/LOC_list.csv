@@ -1,0 +1,53 @@
+LOC,LOC_Sub,LOC_Desc,databook_category,db_cat_sort,db_cat_hist,db_cat_hist_sort
+IP,,Inpatient,Inpatient Services,3,Inpatient Services,3
+LTC,,Long Term Care,24 hour services,5,24 hour services,5
+CS,,Crisis Stabilization,Emergency/Crisis Services,4,Emergency/Crisis Services,4
+CO,,Crisis Outpatient,Emergency/Crisis Services,4,Emergency/Crisis Services,4
+UO,,Urgent Outpatient,Emergency/Crisis Services,4,Emergency/Crisis Services,4
+ACT,,ACT,Outpatient Services,1,Outpatient Services,1
+BHC,,Behaviorial Health Court,NR,99,Outpatient Services,1
+CM,,Case Management,Outpatient Services,1,Outpatient Services,1
+CM,INST,Case Management - Institutional,Outpatient Services,1,Outpatient Services,1
+CM,STR,Case Management - Strengths,Outpatient Services,1,Outpatient Services,1
+CM,TRAN,Case Management - Transitional,Outpatient Services,1,Outpatient Services,1
+CR,,Crisis Residential,Emergency/Crisis Services,4,Emergency/Crisis Services,4
+EDG,,Edgemoor,24 hour Services,5,24 hour services,5
+EPU,,EPU,NR,99,Emergency/Crisis Services,4
+IP,FFS,Inpatient - FFS,Inpatient Services,3,Inpatient Services,3
+IP,LIHP,Inpatient - LIHP,NR,99,Inpatient Services,3
+JAIL,,Jail,Outpatient Services,1,Outpatient Services,1
+LTC,INST,LTC - Institutional,24 hour Services,5,24 hour services,5
+LTC,RES,LTC - Residential,24 hour Services,5,24 hour services,5
+NR,,Not Reported,NR,99,NR,99
+OP,,Outpatient,Outpatient Services,1,Outpatient Services,1
+OP,LIHP,Outpatient - LIHP,NR,99,Outpatient Services,1
+PERT,,PERT,Emergency/Crisis Services,4,Emergency/Crisis Services,4
+PREV,,Prevention,Outpatient Services,1,Outpatient Services,1
+RES,,Residential,24 hour Services,5,24 hour services,5
+IP,ST,State Hospital,Inpatient Services,3,Inpatient Services,3
+IP,CNTY,Inpatient - County,Inpatient Services,3,Inpatient Services,3
+FFS,,Fee for Service,Outpatient Services,1,Outpatient Services,1
+NR,Bed-Hold,Not Reported,NR,99,NR,99
+NR,Club-H,Not Reported,NR,99,NR,99
+NR,CNSV,Not Reported,NR,99,NR,99
+NR,MD/RN,Not Reported,NR,99,NR,99
+NR,OP-CalWk,Not Reported,NR,99,NR,99
+NR,Senior-T,Not Reported,NR,99,NR,99
+DTC,,DT - Community,Day Services,2,Day Services,2
+DTCTF,,DT - Community Tx Facility,Day Services,2,Day Services,2
+DTR,,DT - Residential,Day Services,2,Day Services,2
+ESU,,ESU,Emergency/Crisis Services,4,Emergency/Crisis Services,4
+IPCAPS,,Inpatient CAPS,Inpatient Services,3,Inpatient Services,3
+PHF,,"Psych Health Facility",Inpatient Services,3,Inpatient Services,3
+RTCSES,,"RTC - Special Education Svcs",Day Services,2,Day Services,2
+OPR,,Outpatient - Residential,Outpatient Services,1,Outpatient Services,1
+STRTP,,Short Term Res Tx Facility,Day Services,2,Day Services,2
+TBS,,TBS,Outpatient Services,1,Outpatient Services,1
+WRAP,,Wraparound (previously CM),Outpatient Services,1,Outpatient Services,1
+JFS,,JFS,Outpatient Services,1,Outpatient Services,1
+EDIOP,,ED - Intensive OP,Outpatient Services,1,Outpatient Services,1
+EDIP,,ED - Inpatient,Outpatient Services,1,Outpatient Services,1
+EDPHP,,ED - PHP,Outpatient Services,1,Outpatient Services,1
+EDRES,,ED - Residential,Outpatient Services,1,Outpatient Services,1
+DT,,Day Treatment,Day Services,2,Day Services,2
+CTF,,Not Reported,NR,99,Day Services,2
