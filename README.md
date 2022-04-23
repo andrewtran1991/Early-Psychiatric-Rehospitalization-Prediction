@@ -48,17 +48,19 @@ The directory structure of this repository is shown below.
 └── slides.pdf
 
 
-## Data Pipeline
-
-<details>
-  <summary>Casual riders vs. annual member</summary>
-  <img src="pics/Monthly_number_of_rides.png" name="Monthly number of rides">
-  <img src="pics/Monthly_number_of_rides_by_membership_type.png" name="Monthly number of rides by membership type">
-  <img src="pics/Number_of_rides_by_weekday.png" name="Number of rides by weekday">
-  <img src="pics/Average_Monthly_Trip_Length.png" name="Average monthly trip length">
-  <img src="pics/Average_Ride_Length_Weekday.png" name="Average weekday trip length">
-  <img src="pics/Bike_type.png" name="Distribution of bike type">
-</details>
-
 
 ```
+
+## Data Pipeline and Results
+
+<details>
+  <summary>Below are some slides to illustrate the data pipeline design and results from different models. Please see the full report and slide files for more details.</summary>
+  <img src="pics/Predictive_model_pipeline.png" name="Supervised Learning Model Procedure">
+  <img src="pics/feature_engineering.png" name="Data Processing">
+  <img src="pics/feature_engineering2.png" name="Feature Engineering">
+  <img src="pics/modeling.png" name="Modeling">
+  <img src="pics/CYFresults.png" name="CYF Results">
+  <img src="pics/AOAresult.png" name="AOA Results">
+  <img src="pics/Summary_findings.png" name="Summary of Findings">
+</details>
+
