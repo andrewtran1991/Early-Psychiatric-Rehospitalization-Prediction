@@ -47,4 +47,18 @@ The directory structure of this repository is shown below.
 ├── paper.pdf
 └── slides.pdf
 
+
+## Data Pipeline
+
+<details>
+  <summary>Casual riders vs. annual member</summary>
+  <img src="pics/Monthly_number_of_rides.png" name="Monthly number of rides">
+  <img src="pics/Monthly_number_of_rides_by_membership_type.png" name="Monthly number of rides by membership type">
+  <img src="pics/Number_of_rides_by_weekday.png" name="Number of rides by weekday">
+  <img src="pics/Average_Monthly_Trip_Length.png" name="Average monthly trip length">
+  <img src="pics/Average_Ride_Length_Weekday.png" name="Average weekday trip length">
+  <img src="pics/Bike_type.png" name="Distribution of bike type">
+</details>
+
+
 ```
